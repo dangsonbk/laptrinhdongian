@@ -2,19 +2,25 @@
 
 * [Giới thiệu](README.md)
   * [Lập trình là gì](lap-trinh-la-gi.md)
-  * Lập trình làm gì
+  * [Lập trình làm gì](lap-trinh-lam-gi.md)
 * [Cài cắm](cai-cam.md)
 * [Những dòng code đầu tiên](nhung-dong-code-dau-tien.md)
-* [Khó hơn tí nữa](kho-hon-ti-nua.md)
+  * Gõ lọc cọc là code
   * Cộng trừ nhân chia
   * Biến
   * Câu lệnh
+* [Khó hơn tí nữa](kho-hon-ti-nua.md)
   * Hàm
+  * Build-in libs
+    * os
+    * sys
 * Khó dần đều
   * Regular Expression
+  * Design pattern
+  * Viết thư viện
 * Nghịch ngợm
   * Down truyện nào
-  * [Gửi mail cho sếp](gui-mail-cho-sep.md)
+  * [Check hàng](check-hang.md)
 * Nghiêm túc
-  * Check hàng
+  * Gửi mail cho sếp
 
