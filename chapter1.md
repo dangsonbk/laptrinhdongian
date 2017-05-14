@@ -1,3 +1,4 @@
-# First Chapter
+# Chương 1
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Ở phần này tôi sẽ cố gắng giải thích cho bạn một cách dễ hiểu nhất lập trình là gì.
+
