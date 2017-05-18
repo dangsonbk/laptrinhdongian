@@ -19,8 +19,9 @@
   * Design pattern
   * Viết thư viện
 * Nghịch ngợm
-  * Down truyện nào
+  * Down truyện
   * [Check hàng](check-hang.md)
 * Nghiêm túc
   * Gửi mail cho sếp
+  * Website đơn giản
 
