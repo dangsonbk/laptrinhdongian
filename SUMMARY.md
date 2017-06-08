@@ -3,6 +3,8 @@
 * [Giới thiệu](README.md)
   * [Lập trình là gì](lap-trinh-la-gi.md)
   * [Lập trình làm gì](lap-trinh-lam-gi.md)
+  * Ngôn ngữ lập trình Python
+  * Nội dung của cuốn sách
 * [Cài cắm](cai-cam.md)
 * [Những dòng code đầu tiên](nhung-dong-code-dau-tien.md)
   * Gõ lọc cọc là code
